@@ -8,4 +8,5 @@ target/
 #InteliJ
 /.idea
 *.iml
-
+#merde mac
+.DS_Store
