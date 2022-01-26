@@ -1,1 +1,11 @@
+#target de maven
 target/
+#IDE eclipse
+.settings/
+.classpath
+.project
+
+#InteliJ
+/.idea
+*.iml
+
